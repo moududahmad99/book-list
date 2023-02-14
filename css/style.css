@@ -1,0 +1,14 @@
+* {
+    background: #3f4749;
+    color: #fdfcfc;
+}
+
+
+input {
+    background: #fdfcfc !important;
+    color: #000000 !important;
+}
+
+button {
+    color: #fff !important;
+}
